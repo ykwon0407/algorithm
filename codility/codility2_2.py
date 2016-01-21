@@ -15,4 +15,5 @@ def solution(A, K):
 
 A=[]
 K=3
+
 print solution(A,K)
